@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # simple_form
 =======
 # Getting Started with Create React App
